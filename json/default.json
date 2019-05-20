@@ -1,6 +1,6 @@
 {
 "spectra file": "spectra/spectra.mgf",
-"kernel file": "kernels/crap.KR.kernel,kernels/Saccharomyces_cerevisiae.R64-1-1.KR.kernel", 
+"kernel file": "kernels/crap.KR.kernel.gz,kernels/Saccharomyces_cerevisiae.R64-1-1.KR.kernel.gz", 
 "output file": "results/spectra.tsv",
 "fragment mass tolerance": 20,
 "parent mass tolerance": 10,
